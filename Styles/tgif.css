@@ -1,0 +1,29 @@
+.logo {
+font-size: 200%;
+background-color: azure;
+}
+a.logo a, a.logo:visited {
+color:aqua; 
+}  
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.mailto {
+    justify-content: flex-end;
+    font-size: 15px;
+    display: flex;
+    padding-right: 30px;
+}
+.footer {
+    text-align: center;
+}
+.navbar-nav {
+    background-color: aqua;
+}
+.div2 {
+    justify-content: inline;
+    display: inline-block;
+    padding-left: 380px;
+}
